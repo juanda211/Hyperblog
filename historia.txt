@@ -2,8 +2,12 @@ Esta es la historia de JD
 
 Tiene 28 años y nació en Colombia
 
+<<<<<<< HEAD
 Hoy hablaremos de su vida en todo el mundo
 
 Tiene estatura promedio
 
 Hoy es Ingeniero
+=======
+Nos enfocaremos en su vida laboral
+>>>>>>> cabecera
