@@ -1,13 +1,7 @@
-Esta es la historia de JD
+Esta es la historia de Freddy Vega
 
-Tiene 28 años y nació en Colombia
+Freddy Vega tiene 32 años y nació en Colombia
 
-<<<<<<< HEAD
-Hoy hablaremos de su vida en todo el mundo
+Anita Platzi tiene 41 años y nació en Internet
 
-Tiene estatura promedio
-
-Hoy es Ingeniero
-=======
-Nos enfocaremos en su vida laboral
->>>>>>> cabecera
+Mañana nos enfocaremos en su vida laboral
